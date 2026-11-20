@@ -8,7 +8,7 @@ Most of my work lives on a self-hosted code forge with its own CI, review and re
 
 | Repositories | Commits, all time | Commits, last 12 months | Pull requests and issues |
 |---:|---:|---:|---:|
-| 158 | 116,523 | 114,760 | 25,267 |
+| 158 | 116,631 | 114,868 | 25,285 |
 
 ![Forge commit activity, last 12 months](forge-activity.svg)
 
