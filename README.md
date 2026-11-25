@@ -8,7 +8,7 @@ Most of my work lives on a self-hosted code forge with its own CI, review and re
 
 | Repositories | Commits, all time | Commits, last 12 months | Pull requests and issues |
 |---:|---:|---:|---:|
-| 158 | 122,306 | 120,534 | 25,534 |
+| 158 | 123,672 | 121,895 | 25,621 |
 
 ![Forge commit activity, last 12 months](forge-activity.svg)
 
@@ -16,4 +16,4 @@ Top languages: Python 58%, TypeScript 14%, HTML 10%, JavaScript 7%, C# 5%, Swift
 
 **Public stats page:** [forge.leafdesign.ai/assets/showcase](https://forge.leafdesign.ai/assets/showcase/index.html) (statistics only; source code stays private).
 
-<sub>Refreshed 2026-11-24 from the forge's own history.</sub>
+<sub>Refreshed 2026-11-25 from the forge's own history.</sub>
